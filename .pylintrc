@@ -1,0 +1,8 @@
+[FORMAT]
+max-line-length=88
+
+[MESSAGE CONTROL]
+disable=C0301, C0411, R0914, R0913, C0103, C0115
+
+[MAIN]
+extension-pkg-whitelist=cv2, mediapipe
